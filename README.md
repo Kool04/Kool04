@@ -11,7 +11,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=TailwindCss,html,css,React,React-Native,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=Tailwind CSS,html,css,React,React-Native,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=javascript,c#,java,mysql,fireBase" /><br>
 </div>
 
